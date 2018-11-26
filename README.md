@@ -5,8 +5,9 @@
 using namespace std;
 
 int main()
-{
-    cout<<"HELLO";
+{ int a=5,b=7;
 
+    cout<<a+b;
+system("pause")
     return 0;
 }
